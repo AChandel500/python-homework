@@ -1,3 +1,5 @@
+# Script to set values for variables of differing data types
+# and print their values and types.
 
 mynumber=1
 myfloat=3.14

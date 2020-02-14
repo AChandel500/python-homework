@@ -1,3 +1,5 @@
+# Script to double numbers from 4 to 7 from
+# a list containing numbers 1-9
 
 import numpy as np
 
